@@ -1,8 +1,7 @@
 @media (max-width: 769px) {
   main::after {
-    background: linear-gradient(0deg, #000 20%, rgba(0, 0, 0, 0) 65%) no-repeat;
     width: 100vw;
-  }
+  } 
 
   main .personagem .imagem {
     height: 85%;
@@ -22,12 +21,16 @@
 
   .conteudo .descricao {
     max-width: 500px;
+      color: #ffffff;
+      font-family: "Rubik";
+      line-height: 24px;
+      width: 250px;
   }
 
+
   .botoes {
-    flex-direction: row;
+    flex-direction: column  ;
     align-items: flex-end;
-    width: 100%;
     padding: 30px;
   }
 
@@ -46,20 +49,22 @@
   }
 
   .conteudo .logo {
-    width: 170px;
-    height: 80px;
-  }
+    width: 212px;
+    height: 101px;
+    margin: 0 0 5px -31px;
+}
 
   .conteudo .nome-personagem {
-    font-size: 24px;
+    font-size: 50px;
+    text-align: right;
   }
 
   .botoes {
     padding: 20px;
-    top: -20%;
   }
 
   .botoes .botao img {
     max-width: 50px;
+    
   }
 }
