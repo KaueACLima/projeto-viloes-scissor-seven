@@ -23,7 +23,7 @@ Os usuários devem ser capazes de:
 
 ### Screenshot
 
-![projeto-viloes-scissor-seven](https://github.com/KaueACLima/projeto-card-blog-principal/assets/56000639/b4da24c4-e830-46e9-a00e-526685bfac5b)
+![projeto-viloes-scissor-seven](https://github.com/KaueACLima/projeto-viloes-scissor-seven/assets/56000639/21c26cc4-b280-4fdf-b20f-eb6474de2883)
 
 
 ### Links
