@@ -28,8 +28,9 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- URL da solução: [Repositorio]([https://your-solution-url.com](https://github.com/KaueACLima/projeto-card-blog-principal)
-- URL do site ativo: [Scissor Seven: Liga dos Assassinos]([https://your-live-site-url.com](https://kaueaclima.github.io/projeto-card-blog-principal/)
+- URL da solução: [Repositorio](https://github.com/KaueACLima/projeto-viloes-scissor-seven)
+- URL do site ativo: [Scissor Seven: Liga dos Assassinos](https://kaueaclima.github.io/projeto-viloes-scissor-seven/
+)
 
 ## Meu processo
 
